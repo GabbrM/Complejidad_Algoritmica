@@ -7,7 +7,7 @@ import csv
 
 base_url = 'https://api.themoviedb.org/3/'
 
-#Ingresar el API generado en la página The movie Database
+#Ingresar el API key generado en la página The movie Database
 api_key = ''
 
 def get_movie_details(movie_id):
